@@ -1,0 +1,10 @@
+**/.git
+**/.vs
+**/bin
+**/obj
+**/node_modules
+**/.idea
+**/TestResults
+*.md
+.gitignore
+docker-compose.yml

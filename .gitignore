@@ -1,0 +1,32 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## NuGet
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+## IDE
+.vs/
+*.user
+*.suo
+*.sln.docstates
+.idea/
+*.swp
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+
+## OS
+.DS_Store
+Thumbs.db
